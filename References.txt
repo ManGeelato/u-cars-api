@@ -1,0 +1,3 @@
+Before attempting this task, I watched a video on how to create a full stack mern application. Link is below:
+https://www.youtube.com/watch?v=korRfKTDoxE&ab_channel=LearnWebCode
+
