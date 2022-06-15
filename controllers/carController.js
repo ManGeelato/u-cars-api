@@ -60,11 +60,6 @@ export const deleteCar = async (req, res) => {
   res.json({message: 'Car record deleted successfully!'});
 }
 
-
-
-
-
-
 // In this file, I will add all the complex logic from get, post, delete and update then export the file to routes.
 // Firstly, I imported my database model then I defined all my appropriate functions
 import { mongoose } from 'mongoose';
